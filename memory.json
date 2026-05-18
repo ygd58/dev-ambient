@@ -1,0 +1,37 @@
+{
+  "sessions": [
+    {
+      "step": "step1",
+      "latency": 10.93,
+      "status": "OK",
+      "context_size": 1,
+      "output_preview": "1.  **Deconstruct the Prompt:**\n    *   **Context:** DeFi protocol.\n    *   **TVL:** $50 Million (si"
+    },
+    {
+      "step": "step2",
+      "latency": 15.65,
+      "status": "OK",
+      "context_size": 2,
+      "output_preview": "1.  **Analyze the Request:**\n    *   Previous context: Top risk = volatile collateral liquidation ca"
+    },
+    {
+      "step": "step3",
+      "latency": 11.82,
+      "status": "OK",
+      "context_size": 3,
+      "output_preview": "1.  **Analyze the Request:**\n    *   Previous context: Top risk is a \"volatile collateral liquidatio"
+    },
+    {
+      "step": "step4",
+      "latency": 11.65,
+      "status": "OK",
+      "context_size": 3,
+      "output_preview": "1.  **Analyze the Request:**\n    *   Previous context provided: Top risk is a volatile collateral li"
+    }
+  ],
+  "context": [
+    "Top risk: volatile collateral liquidation cascade",
+    "Priority: address collateral volatility first",
+    "Mitigation: dynamic LTV adjustment based on volatility"
+  ]
+}
