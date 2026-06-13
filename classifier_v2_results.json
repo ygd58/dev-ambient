@@ -1,0 +1,52 @@
+[
+  {
+    "classification": "DETERMINISTIC",
+    "confidence": 1.0,
+    "reason": "Signal scores: {'DETERMINISTIC': 4, 'PROBABILISTIC': 0, 'UNVERIFIABLE': 0}",
+    "action": "ACCEPT",
+    "tee_required": false,
+    "label": "math",
+    "latency": 4.44,
+    "output_preview": "1.  **Understand the Goal:** The user wants to find the *compound interest* earn"
+  },
+  {
+    "classification": "PROBABILISTIC",
+    "confidence": 0.75,
+    "reason": "Signal scores: {'DETERMINISTIC': 1, 'PROBABILISTIC': 3, 'UNVERIFIABLE': 0}",
+    "action": "REVIEW",
+    "tee_required": true,
+    "label": "forecast",
+    "latency": 5.29,
+    "output_preview": "1.  **Deconstruct the Prompt:**\n    *   **Subject:** Bitcoin (BTC) price.\n    * "
+  },
+  {
+    "classification": "MIXED",
+    "confidence": 0.5,
+    "reason": "Signal scores: {'DETERMINISTIC': 0, 'PROBABILISTIC': 1, 'UNVERIFIABLE': 1}",
+    "action": "REJECT \u2014 separate categories before use",
+    "tee_required": true,
+    "label": "opinion",
+    "latency": 4.83,
+    "output_preview": "1.  **Deconstruct the Prompt:**\n    *   **Question:** \"Is DeFi better than tradi"
+  },
+  {
+    "classification": "MIXED",
+    "confidence": 0.5,
+    "reason": "Signal scores: {'DETERMINISTIC': 0, 'PROBABILISTIC': 1, 'UNVERIFIABLE': 1}",
+    "action": "REJECT \u2014 separate categories before use",
+    "tee_required": true,
+    "label": "audit",
+    "latency": 6.88,
+    "output_preview": "1.  **Analyze the User's Input:**\n    *   *Input:* \"This smart contract appears "
+  },
+  {
+    "classification": "DETERMINISTIC",
+    "confidence": 1.0,
+    "reason": "Signal scores: {'DETERMINISTIC': 2, 'PROBABILISTIC': 0, 'UNVERIFIABLE': 0}",
+    "action": "ACCEPT",
+    "tee_required": false,
+    "label": "logic",
+    "latency": 6.9,
+    "output_preview": "1.  **Deconstruct the Prompt:**\n    *   *Condition 1:* All validators are honest"
+  }
+]
