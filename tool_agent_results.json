@@ -1,0 +1,8 @@
+{
+  "goal": "I have $100,000 to allocate. Should I buy ETH and deposit it into Aave? Give me a specific recommendation with position sizing.",
+  "steps": 3,
+  "tool_calls": 3,
+  "total_latency": 35.38,
+  "avg_latency": 11.79,
+  "status": "OK"
+}
