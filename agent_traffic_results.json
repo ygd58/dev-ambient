@@ -1,0 +1,122 @@
+[
+  {
+    "label": "agent_1_step_1",
+    "status": 200,
+    "latency": 14.68,
+    "len": 852,
+    "ok": true
+  },
+  {
+    "label": "agent_1_step_2",
+    "status": 200,
+    "latency": 30.96,
+    "len": 868,
+    "ok": true
+  },
+  {
+    "label": "agent_1_step_3",
+    "status": 200,
+    "latency": 10.8,
+    "len": 848,
+    "ok": true
+  },
+  {
+    "label": "agent_0_step_1",
+    "status": 200,
+    "latency": 8.42,
+    "len": 885,
+    "ok": true
+  },
+  {
+    "label": "agent_0_step_2",
+    "status": 200,
+    "latency": 25.92,
+    "len": 859,
+    "ok": true
+  },
+  {
+    "label": "agent_0_step_3",
+    "status": 200,
+    "latency": 13.03,
+    "len": 899,
+    "ok": true
+  },
+  {
+    "label": "agent_1_step_1",
+    "status": 200,
+    "latency": 7.95,
+    "len": 825,
+    "ok": true
+  },
+  {
+    "label": "agent_1_step_2",
+    "status": 200,
+    "latency": 43.99,
+    "len": 762,
+    "ok": true
+  },
+  {
+    "label": "agent_1_step_3",
+    "status": 200,
+    "latency": 24.37,
+    "len": 809,
+    "ok": true
+  },
+  {
+    "label": "agent_2_step_1",
+    "status": 200,
+    "latency": 8.24,
+    "len": 868,
+    "ok": true
+  },
+  {
+    "label": "agent_2_step_2",
+    "status": 200,
+    "latency": 20.06,
+    "len": 904,
+    "ok": true
+  },
+  {
+    "label": "agent_2_step_3",
+    "status": 200,
+    "latency": 15.81,
+    "len": 891,
+    "ok": true
+  },
+  {
+    "label": "long_context_1",
+    "status": 0,
+    "latency": 5.38,
+    "len": 0,
+    "ok": false,
+    "error": "'choices'"
+  },
+  {
+    "label": "long_context_2",
+    "status": 200,
+    "latency": 16.06,
+    "len": 875,
+    "ok": true
+  },
+  {
+    "label": "long_context_4",
+    "status": 200,
+    "latency": 7.34,
+    "len": 903,
+    "ok": true
+  },
+  {
+    "label": "long_context_6",
+    "status": 200,
+    "latency": 18.56,
+    "len": 912,
+    "ok": true
+  },
+  {
+    "label": "long_context_8",
+    "status": 200,
+    "latency": 14.22,
+    "len": 937,
+    "ok": true
+  }
+]
