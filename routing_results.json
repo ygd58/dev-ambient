@@ -1,0 +1,146 @@
+[
+  {
+    "label": "simple_math",
+    "run": 1,
+    "status": 200,
+    "latency": 7.4,
+    "len": 11,
+    "ok": true
+  },
+  {
+    "label": "simple_math",
+    "run": 2,
+    "status": 200,
+    "latency": 4.64,
+    "len": 8,
+    "ok": true
+  },
+  {
+    "label": "simple_math",
+    "run": 3,
+    "status": 200,
+    "latency": 2.74,
+    "len": 14,
+    "ok": true
+  },
+  {
+    "label": "simple_factual",
+    "run": 1,
+    "status": 200,
+    "latency": 3.57,
+    "len": 104,
+    "ok": true
+  },
+  {
+    "label": "simple_factual",
+    "run": 2,
+    "status": 200,
+    "latency": 2.61,
+    "len": 0,
+    "ok": false
+  },
+  {
+    "label": "simple_factual",
+    "run": 3,
+    "status": 200,
+    "latency": 18.46,
+    "len": 0,
+    "ok": false
+  },
+  {
+    "label": "medium_analysis",
+    "run": 1,
+    "status": 200,
+    "latency": 3.29,
+    "len": 0,
+    "ok": false
+  },
+  {
+    "label": "medium_analysis",
+    "run": 2,
+    "status": 200,
+    "latency": 4.67,
+    "len": 0,
+    "ok": false
+  },
+  {
+    "label": "medium_analysis",
+    "run": 3,
+    "status": 200,
+    "latency": 4.79,
+    "len": 0,
+    "ok": false
+  },
+  {
+    "label": "complex_research",
+    "run": 1,
+    "status": 200,
+    "latency": 5.12,
+    "len": 0,
+    "ok": false
+  },
+  {
+    "label": "complex_research",
+    "run": 2,
+    "status": 200,
+    "latency": 6.18,
+    "len": 0,
+    "ok": false
+  },
+  {
+    "label": "complex_research",
+    "run": 3,
+    "status": 200,
+    "latency": 6.86,
+    "len": 0,
+    "ok": false
+  },
+  {
+    "label": "code_generation",
+    "run": 1,
+    "status": 200,
+    "latency": 4.31,
+    "len": 889,
+    "ok": true
+  },
+  {
+    "label": "code_generation",
+    "run": 2,
+    "status": 200,
+    "latency": 4.51,
+    "len": 742,
+    "ok": true
+  },
+  {
+    "label": "code_generation",
+    "run": 3,
+    "status": 200,
+    "latency": 5.39,
+    "len": 726,
+    "ok": true
+  },
+  {
+    "label": "long_context",
+    "run": 1,
+    "status": 200,
+    "latency": 4.04,
+    "len": 0,
+    "ok": false
+  },
+  {
+    "label": "long_context",
+    "run": 2,
+    "status": 200,
+    "latency": 5.81,
+    "len": 0,
+    "ok": false
+  },
+  {
+    "label": "long_context",
+    "run": 3,
+    "status": 200,
+    "latency": 4.35,
+    "len": 0,
+    "ok": false
+  }
+]
