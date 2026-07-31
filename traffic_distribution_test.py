@@ -9,8 +9,8 @@ API_URL = "https://api.ambient.xyz/v1/chat/completions"
 
 MODELS = [
     "moonshotai/kimi-k2.7-code",
-    "zai-org/GLM-5.1-FP8",
-    "z-ai/glm-5.2",
+    "moonshotai/kimi-k2.7-code",
+    "moonshotai/kimi-k2.7-code",
 ]
 
 async def send(session, model, prompt, req_id):

@@ -6,7 +6,7 @@ import json
 # Ambient OpenAI-compatible endpoint
 API_KEY = "dKVk85DEx9QXUfK17ZSSpnPBAVurorCOAjz9cPCMg6PCY6FqEY"
 BASE_URL = "https://api.ambient.xyz/v1"
-MODEL = "zai-org/GLM-5.1-FP8"
+MODEL = "moonshotai/kimi-k2.7-code"
 
 async def test_chat(session, prompt, label):
     start = time.time()
