@@ -1,0 +1,182 @@
+[
+  {
+    "model": "moonshotai/kimi-k2.7-code",
+    "task": "reasoning",
+    "status": 200,
+    "latency": 5.11,
+    "length": 392,
+    "ok": true,
+    "preview": " Yes \u2014 a 2/3 quorum threshold makes the protocol Byzantine fault tolerant because any two quorums mu"
+  },
+  {
+    "model": "deepseek/deepseek-v4-flash",
+    "task": "reasoning",
+    "status": 429,
+    "latency": 0.24,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "openai/gpt-oss-20b",
+    "task": "reasoning",
+    "status": 429,
+    "latency": 0.23,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "z-ai/glm-5.2",
+    "task": "reasoning",
+    "status": 200,
+    "latency": 5.62,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "moonshotai/kimi-k2.7-code",
+    "task": "coding",
+    "status": 200,
+    "latency": 4.31,
+    "length": 1640,
+    "ok": true,
+    "preview": " ```python\ndef compound_interest(principal, rate, time, frequency):\n    \"\"\"\n    Calculate compound i"
+  },
+  {
+    "model": "deepseek/deepseek-v4-flash",
+    "task": "coding",
+    "status": 429,
+    "latency": 0.21,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "openai/gpt-oss-20b",
+    "task": "coding",
+    "status": 429,
+    "latency": 0.2,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "z-ai/glm-5.2",
+    "task": "coding",
+    "status": 200,
+    "latency": 17.96,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "moonshotai/kimi-k2.7-code",
+    "task": "research",
+    "status": 200,
+    "latency": 5.04,
+    "length": 1793,
+    "ok": true,
+    "preview": " The top three risks in DeFi lending protocols are:\n\n1. **Smart-contract exploit / bug risk**  \n   L"
+  },
+  {
+    "model": "deepseek/deepseek-v4-flash",
+    "task": "research",
+    "status": 429,
+    "latency": 0.23,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "openai/gpt-oss-20b",
+    "task": "research",
+    "status": 429,
+    "latency": 0.2,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "z-ai/glm-5.2",
+    "task": "research",
+    "status": 200,
+    "latency": 24.15,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "moonshotai/kimi-k2.7-code",
+    "task": "creative",
+    "status": 200,
+    "latency": 2.94,
+    "length": 351,
+    "ok": true,
+    "preview": " A blockchain is like a digital diary that lots of computers share, where each page is locked to the"
+  },
+  {
+    "model": "deepseek/deepseek-v4-flash",
+    "task": "creative",
+    "status": 429,
+    "latency": 0.22,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "openai/gpt-oss-20b",
+    "task": "creative",
+    "status": 429,
+    "latency": 0.21,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "z-ai/glm-5.2",
+    "task": "creative",
+    "status": 200,
+    "latency": 5.12,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "moonshotai/kimi-k2.7-code",
+    "task": "math",
+    "status": 200,
+    "latency": 5.13,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "deepseek/deepseek-v4-flash",
+    "task": "math",
+    "status": 429,
+    "latency": 0.2,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "openai/gpt-oss-20b",
+    "task": "math",
+    "status": 429,
+    "latency": 0.25,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  },
+  {
+    "model": "z-ai/glm-5.2",
+    "task": "math",
+    "status": 200,
+    "latency": 2.91,
+    "length": 0,
+    "ok": false,
+    "preview": ""
+  }
+]
