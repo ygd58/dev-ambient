@@ -9,8 +9,8 @@ API_URL = "https://api.ambient.xyz/v1/chat/completions"
 
 MODELS = [
     "moonshotai/kimi-k2.7-code",
-    "deepseek/deepseek-v4-flash",
-    "openai/gpt-oss-20b",
+    "deepseek/deepseek-v4-flash-0731",
+    "deepseek/deepseek-v4-flash-0731",
     "z-ai/glm-5.2",
 ]
 

@@ -16,7 +16,7 @@ async def send_request(session, prompt, req_id):
         async with session.post(
             API_URL,
             headers={"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"},
-            json={"model": "zai-org/GLM-5-FP8", "messages": [{"role": "user", "content": prompt}], "max_tokens": 200},
+            json={"model": "z-ai/glm-5.2", "messages": [{"role": "user", "content": prompt}], "max_tokens": 200},
             timeout=aiohttp.ClientTimeout(total=60)
         ) as resp:
             await resp.json()
