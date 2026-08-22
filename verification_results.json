@@ -1,0 +1,26 @@
+[
+  {
+    "task": "math",
+    "runs": 5,
+    "success": 5,
+    "correct": 3,
+    "unique_hashes": 5,
+    "consistency": "LOW"
+  },
+  {
+    "task": "logic",
+    "runs": 5,
+    "success": 5,
+    "correct": 5,
+    "unique_hashes": 1,
+    "consistency": "HIGH"
+  },
+  {
+    "task": "factual",
+    "runs": 5,
+    "success": 5,
+    "correct": 5,
+    "unique_hashes": 1,
+    "consistency": "HIGH"
+  }
+]
