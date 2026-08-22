@@ -1,0 +1,542 @@
+[
+  {
+    "id": 0,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 1.52,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 1,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 1.35,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 2,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 1.66,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 3,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 1.31,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 4,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 1.55,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 5,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 1.43,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 6,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 1.4,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 7,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 2.29,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 8,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 1.59,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 9,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 1.53,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 0,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 2.9,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 1,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 2.16,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 2,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 2.91,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 3,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 2.9,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 4,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 2.13,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 5,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 3.29,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 6,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 3.31,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 7,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 2.14,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 8,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 3.32,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 9,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 3.32,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 0,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 0.59,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 1,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 0.78,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 2,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 1.92,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 3,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 0.57,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 4,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 0.76,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 5,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 0.71,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 6,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 0.55,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 7,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 0.62,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 8,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 0.96,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 9,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 0.67,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 0,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 1.22,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 1,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 1.07,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 2,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 0.99,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 3,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 0.63,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 4,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 0.78,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 5,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 0.87,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 6,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 0.95,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 7,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 1.07,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 8,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 0.71,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 9,
+    "model": "kimi-k2.7-code",
+    "status": 200,
+    "latency": 0.76,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 10,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 4.57,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 11,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 4.0,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 12,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 3.78,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 13,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 3.83,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 14,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 4.58,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 15,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 3.52,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 16,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 3.53,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 17,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 4.06,
+    "correct": true,
+    "hash": "387da12a",
+    "ok": true
+  },
+  {
+    "id": 18,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 3.48,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 19,
+    "model": "glm-5.2",
+    "status": 200,
+    "latency": 3.53,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 20,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 1.21,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 21,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 1.02,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 22,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 1.01,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 23,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 1.03,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 24,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 1.08,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 25,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 1.25,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 26,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 0.97,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 27,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 1.03,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 28,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 1.18,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  },
+  {
+    "id": 29,
+    "model": "deepseek-v4-flash-0731",
+    "status": 200,
+    "latency": 1.23,
+    "correct": true,
+    "hash": "0a09c884",
+    "ok": true
+  }
+]
