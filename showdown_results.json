@@ -1,0 +1,182 @@
+[
+  {
+    "model": "ambient/large",
+    "task": "coding",
+    "status": 200,
+    "latency": 3.72,
+    "length": 2009,
+    "correct": true,
+    "ok": true
+  },
+  {
+    "model": "glm-5.2",
+    "task": "coding",
+    "status": 200,
+    "latency": 3.4,
+    "length": 1981,
+    "correct": true,
+    "ok": true
+  },
+  {
+    "model": "qwen3.6-27b",
+    "task": "coding",
+    "status": 200,
+    "latency": 3.92,
+    "length": 1171,
+    "correct": true,
+    "ok": true
+  },
+  {
+    "model": "qwen3.8-27b",
+    "task": "coding",
+    "status": 200,
+    "latency": 4.15,
+    "length": 1281,
+    "correct": true,
+    "ok": true
+  },
+  {
+    "model": "ambient/large",
+    "task": "math",
+    "status": 200,
+    "latency": 1.75,
+    "length": 1004,
+    "correct": false,
+    "ok": true
+  },
+  {
+    "model": "glm-5.2",
+    "task": "math",
+    "status": 200,
+    "latency": 1.78,
+    "length": 984,
+    "correct": false,
+    "ok": true
+  },
+  {
+    "model": "qwen3.6-27b",
+    "task": "math",
+    "status": 200,
+    "latency": 3.59,
+    "length": 928,
+    "correct": false,
+    "ok": true
+  },
+  {
+    "model": "qwen3.8-27b",
+    "task": "math",
+    "status": 200,
+    "latency": 3.55,
+    "length": 880,
+    "correct": false,
+    "ok": true
+  },
+  {
+    "model": "ambient/large",
+    "task": "factual",
+    "status": 200,
+    "latency": 1.12,
+    "length": 69,
+    "correct": false,
+    "ok": true
+  },
+  {
+    "model": "glm-5.2",
+    "task": "factual",
+    "status": 200,
+    "latency": 0.53,
+    "length": 88,
+    "correct": false,
+    "ok": true
+  },
+  {
+    "model": "qwen3.6-27b",
+    "task": "factual",
+    "status": 200,
+    "latency": 0.4,
+    "length": 5,
+    "correct": true,
+    "ok": false
+  },
+  {
+    "model": "qwen3.8-27b",
+    "task": "factual",
+    "status": 200,
+    "latency": 0.37,
+    "length": 5,
+    "correct": true,
+    "ok": false
+  },
+  {
+    "model": "ambient/large",
+    "task": "reasoning",
+    "status": 200,
+    "latency": 1.13,
+    "length": 358,
+    "correct": true,
+    "ok": true
+  },
+  {
+    "model": "glm-5.2",
+    "task": "reasoning",
+    "status": 200,
+    "latency": 3.51,
+    "length": 353,
+    "correct": true,
+    "ok": true
+  },
+  {
+    "model": "qwen3.6-27b",
+    "task": "reasoning",
+    "status": 200,
+    "latency": 0.75,
+    "length": 188,
+    "correct": false,
+    "ok": true
+  },
+  {
+    "model": "qwen3.8-27b",
+    "task": "reasoning",
+    "status": 200,
+    "latency": 0.77,
+    "length": 219,
+    "correct": false,
+    "ok": true
+  },
+  {
+    "model": "ambient/large",
+    "task": "structured",
+    "status": 200,
+    "latency": 3.85,
+    "length": 1172,
+    "correct": true,
+    "ok": true
+  },
+  {
+    "model": "glm-5.2",
+    "task": "structured",
+    "status": 200,
+    "latency": 2.67,
+    "length": 1253,
+    "correct": false,
+    "ok": true
+  },
+  {
+    "model": "qwen3.6-27b",
+    "task": "structured",
+    "status": 200,
+    "latency": 2.3,
+    "length": 730,
+    "correct": false,
+    "ok": true
+  },
+  {
+    "model": "qwen3.8-27b",
+    "task": "structured",
+    "status": 200,
+    "latency": 2.48,
+    "length": 860,
+    "correct": false,
+    "ok": true
+  }
+]
