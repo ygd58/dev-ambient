@@ -1,0 +1,64 @@
+[
+  {
+    "label": "Quiet period",
+    "total_requests": 5,
+    "success": 5,
+    "failed": 0,
+    "success_rate": 100.0,
+    "total_time": 3.53,
+    "avg_latency": 2.73,
+    "p95_latency": 3.53,
+    "spread": 2.26,
+    "errors": {}
+  },
+  {
+    "label": "Normal traffic",
+    "total_requests": 20,
+    "success": 20,
+    "failed": 0,
+    "success_rate": 100.0,
+    "total_time": 5.97,
+    "avg_latency": 2.95,
+    "p95_latency": 5.97,
+    "spread": 5.14,
+    "errors": {}
+  },
+  {
+    "label": "Busy period",
+    "total_requests": 100,
+    "success": 99,
+    "failed": 1,
+    "success_rate": 99.0,
+    "total_time": 3.91,
+    "avg_latency": 2.62,
+    "p95_latency": 3.67,
+    "spread": 3.16,
+    "errors": {
+      "": 1
+    }
+  },
+  {
+    "label": "Recovery",
+    "total_requests": 5,
+    "success": 5,
+    "failed": 0,
+    "success_rate": 100.0,
+    "total_time": 4.51,
+    "avg_latency": 4.26,
+    "p95_latency": 4.51,
+    "spread": 0.48,
+    "errors": {}
+  },
+  {
+    "label": "Sudden spike after quiet",
+    "total_requests": 50,
+    "success": 50,
+    "failed": 0,
+    "success_rate": 100.0,
+    "total_time": 8.21,
+    "avg_latency": 4.77,
+    "p95_latency": 8.17,
+    "spread": 5.37,
+    "errors": {}
+  }
+]
