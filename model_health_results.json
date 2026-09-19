@@ -1,0 +1,54 @@
+[
+  {
+    "model": "ambient/large",
+    "success_rate": 100.0,
+    "ok": 10,
+    "failed": 0,
+    "avg_latency": 0.98,
+    "min_latency": 0.46,
+    "max_latency": 3.35,
+    "errors": {},
+    "finish_reasons": {
+      "length": 10
+    }
+  },
+  {
+    "model": "glm-5.2",
+    "success_rate": 100.0,
+    "ok": 10,
+    "failed": 0,
+    "avg_latency": 0.66,
+    "min_latency": 0.48,
+    "max_latency": 1.3,
+    "errors": {},
+    "finish_reasons": {
+      "length": 10
+    }
+  },
+  {
+    "model": "qwen3.6",
+    "success_rate": 100.0,
+    "ok": 10,
+    "failed": 0,
+    "avg_latency": 0.45,
+    "min_latency": 0.41,
+    "max_latency": 0.49,
+    "errors": {},
+    "finish_reasons": {
+      "stop": 10
+    }
+  },
+  {
+    "model": "qwen3.8",
+    "success_rate": 100.0,
+    "ok": 10,
+    "failed": 0,
+    "avg_latency": 0.46,
+    "min_latency": 0.43,
+    "max_latency": 0.48,
+    "errors": {},
+    "finish_reasons": {
+      "stop": 10
+    }
+  }
+]
