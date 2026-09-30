@@ -1,0 +1,164 @@
+[
+  {
+    "label": "normal_0",
+    "status": 200,
+    "latency": 1.28,
+    "finish": "stop",
+    "content_len": 9,
+    "req_id": "chatcmpl-01a0f18e-106d-76ba-a045-0bc901020940",
+    "ok": true
+  },
+  {
+    "label": "normal_1",
+    "status": 200,
+    "latency": 0.8,
+    "finish": "stop",
+    "content_len": 9,
+    "req_id": "chatcmpl-01a0f18e-1b0f-7981-b0e0-b47a65044b27",
+    "ok": true
+  },
+  {
+    "label": "normal_2",
+    "status": 200,
+    "latency": 0.57,
+    "finish": "stop",
+    "content_len": 9,
+    "req_id": "chatcmpl-01a0f18e-260b-7985-88bc-4d1087dd69a6",
+    "ok": true
+  },
+  {
+    "label": "normal_3",
+    "status": 200,
+    "latency": 0.71,
+    "finish": "stop",
+    "content_len": 10,
+    "req_id": "chatcmpl-01a0f18e-300a-7409-a33d-e38bfc01dfe0",
+    "ok": true
+  },
+  {
+    "label": "normal_4",
+    "status": 200,
+    "latency": 0.8,
+    "finish": "stop",
+    "content_len": 9,
+    "req_id": "chatcmpl-01a0f18e-3a95-748c-afa6-d501b9d0998c",
+    "ok": true
+  },
+  {
+    "label": "slow_0",
+    "status": 0,
+    "latency": 2,
+    "finish": "CLIENT_TIMEOUT",
+    "content_len": 0,
+    "req_id": "",
+    "ok": false
+  },
+  {
+    "label": "slow_1",
+    "status": 0,
+    "latency": 2,
+    "finish": "CLIENT_TIMEOUT",
+    "content_len": 0,
+    "req_id": "",
+    "ok": false
+  },
+  {
+    "label": "slow_2",
+    "status": 0,
+    "latency": 2,
+    "finish": "CLIENT_TIMEOUT",
+    "content_len": 0,
+    "req_id": "",
+    "ok": false
+  },
+  {
+    "label": "slow_3",
+    "status": 0,
+    "latency": 2,
+    "finish": "CLIENT_TIMEOUT",
+    "content_len": 0,
+    "req_id": "",
+    "ok": false
+  },
+  {
+    "label": "slow_4",
+    "status": 0,
+    "latency": 2,
+    "finish": "CLIENT_TIMEOUT",
+    "content_len": 0,
+    "req_id": "",
+    "ok": false
+  },
+  {
+    "label": "recovery_0",
+    "status": 200,
+    "latency": 1.11,
+    "finish": "stop",
+    "content_len": 9,
+    "req_id": "chatcmpl-01a0f18e-9545-7e50-95be-881ca9d6f306",
+    "ok": true
+  },
+  {
+    "label": "recovery_1",
+    "status": 200,
+    "latency": 0.84,
+    "finish": "stop",
+    "content_len": 9,
+    "req_id": "chatcmpl-01a0f18e-a00f-793f-8e3e-d6ceb9d9ad6b",
+    "ok": true
+  },
+  {
+    "label": "recovery_2",
+    "status": 200,
+    "latency": 0.8,
+    "finish": "stop",
+    "content_len": 9,
+    "req_id": "chatcmpl-01a0f18e-ab3e-76c2-be3f-ec8fe519c124",
+    "ok": true
+  },
+  {
+    "label": "recovery_3",
+    "status": 200,
+    "latency": 0.89,
+    "finish": "stop",
+    "content_len": 9,
+    "req_id": "chatcmpl-01a0f18e-b60e-74f5-90ff-61e880564e46",
+    "ok": true
+  },
+  {
+    "label": "recovery_4",
+    "status": 200,
+    "latency": 0.69,
+    "finish": "stop",
+    "content_len": 9,
+    "req_id": "chatcmpl-01a0f18e-c161-78e3-914a-c3f1764779e8",
+    "ok": true
+  },
+  {
+    "label": "interrupted_0",
+    "status": 0,
+    "latency": 1,
+    "finish": "CLIENT_TIMEOUT",
+    "content_len": 0,
+    "req_id": "",
+    "ok": false
+  },
+  {
+    "label": "interrupted_1",
+    "status": 0,
+    "latency": 1,
+    "finish": "CLIENT_TIMEOUT",
+    "content_len": 0,
+    "req_id": "",
+    "ok": false
+  },
+  {
+    "label": "interrupted_2",
+    "status": 0,
+    "latency": 1,
+    "finish": "CLIENT_TIMEOUT",
+    "content_len": 0,
+    "req_id": "",
+    "ok": false
+  }
+]
