@@ -1,0 +1,43 @@
+{"job": "baseline_2", "latency": 5.02, "attempt": 1, "req_id": "chatcmpl-01a18cc1-1cdc-770d-8f38-571bb579e342", "ts": 1793362832.95, "event": "success"}
+{"job": "baseline_0", "latency": 5.64, "attempt": 1, "req_id": "chatcmpl-01a18cc1-1ce5-7e4e-9e51-33f4d770b691", "ts": 1793362833.56, "event": "success"}
+{"job": "baseline_4", "latency": 9.76, "attempt": 1, "req_id": "chatcmpl-01a18cc1-1d77-70fc-9151-98477fe8e3d9", "ts": 1793362837.69, "event": "success"}
+{"job": "baseline_3", "latency": 20.78, "attempt": 1, "req_id": "chatcmpl-01a18cc1-1cd8-77be-b572-25c2b4a135d2", "ts": 1793362848.71, "event": "success"}
+{"job": "baseline_1", "latency": 21.6, "attempt": 1, "req_id": "chatcmpl-01a18cc1-1d76-796e-a2ff-339ecf4a4058", "ts": 1793362849.53, "event": "success"}
+{"job": "concurrent_5", "latency": 7.36, "attempt": 1, "req_id": "chatcmpl-01a18cc1-714d-738e-b8d1-8479f0113c19", "ts": 1793362856.89, "event": "success"}
+{"job": "concurrent_11", "latency": 8.33, "attempt": 1, "req_id": "chatcmpl-01a18cc1-727a-7d1f-ae43-b51f92e96552", "ts": 1793362857.86, "event": "success"}
+{"job": "concurrent_19", "latency": 8.91, "attempt": 1, "req_id": "chatcmpl-01a18cc1-7167-797b-9191-b45be422f62a", "ts": 1793362858.45, "event": "success"}
+{"job": "concurrent_14", "latency": 9.79, "attempt": 1, "req_id": "chatcmpl-01a18cc1-7157-7e97-b47d-2327c44adfb6", "ts": 1793362859.32, "event": "success"}
+{"job": "concurrent_10", "latency": 10.48, "attempt": 1, "req_id": "chatcmpl-01a18cc1-7166-7c71-8aee-09d21f493f6e", "ts": 1793362860.01, "event": "success"}
+{"job": "concurrent_0", "latency": 11.1, "attempt": 1, "req_id": "chatcmpl-01a18cc1-6f9d-7848-bc4c-59fa92a3146a", "ts": 1793362860.63, "event": "success"}
+{"job": "concurrent_3", "latency": 11.15, "attempt": 1, "req_id": "chatcmpl-01a18cc1-713f-79db-a189-a477fcab1379", "ts": 1793362860.68, "event": "success"}
+{"job": "concurrent_15", "latency": 11.27, "attempt": 1, "req_id": "chatcmpl-01a18cc1-711d-77d2-902d-3a68cc34d45d", "ts": 1793362860.81, "event": "success"}
+{"job": "concurrent_17", "latency": 14.38, "attempt": 1, "req_id": "chatcmpl-01a18cc1-711d-7424-bc8c-64dce69bb666", "ts": 1793362863.91, "event": "success"}
+{"job": "concurrent_7", "latency": 14.39, "attempt": 1, "req_id": "chatcmpl-01a18cc1-7188-7fe8-8a97-3d187ec2b12f", "ts": 1793362863.92, "event": "success"}
+{"job": "concurrent_18", "latency": 14.39, "attempt": 1, "req_id": "chatcmpl-01a18cc1-7185-7df4-b1ee-c57f8cf49913", "ts": 1793362863.92, "event": "success"}
+{"job": "concurrent_9", "latency": 14.46, "attempt": 1, "req_id": "chatcmpl-01a18cc1-7184-795e-a86b-2bff4b2bb37b", "ts": 1793362863.99, "event": "success"}
+{"job": "concurrent_6", "latency": 14.83, "attempt": 1, "req_id": "chatcmpl-01a18cc1-714a-7f35-a0bc-04fec984c44f", "ts": 1793362864.36, "event": "success"}
+{"job": "concurrent_1", "latency": 16.01, "attempt": 1, "req_id": "chatcmpl-01a18cc1-6f70-775f-b0a8-f91afd52e4fc", "ts": 1793362865.54, "event": "success"}
+{"job": "concurrent_13", "latency": 19.05, "attempt": 1, "req_id": "chatcmpl-01a18cc1-7173-78ae-b84b-41918f75cf9f", "ts": 1793362868.58, "event": "success"}
+{"job": "concurrent_8", "latency": 20.53, "attempt": 1, "req_id": "chatcmpl-01a18cc1-713d-7897-af91-3eb34cb34bce", "ts": 1793362870.07, "event": "success"}
+{"job": "concurrent_4", "latency": 20.97, "attempt": 1, "req_id": "chatcmpl-01a18cc1-711e-7310-bc17-e2ab18c4451e", "ts": 1793362870.5, "event": "success"}
+{"job": "concurrent_16", "latency": 23.07, "attempt": 1, "req_id": "chatcmpl-01a18cc1-7174-78af-a511-80ec5cca60ec", "ts": 1793362872.6, "event": "success"}
+{"job": "concurrent_12", "latency": 23.58, "attempt": 1, "req_id": "chatcmpl-01a18cc1-7169-7330-9f4b-e42be077d108", "ts": 1793362873.11, "event": "success"}
+{"job": "concurrent_2", "latency": 25.57, "attempt": 1, "req_id": "chatcmpl-01a18cc1-6f78-700a-a232-788a2d28ec96", "ts": 1793362875.1, "event": "success"}
+{"job": "bad_key_2", "status": 401, "ts": 1793362875.28, "event": "fatal"}
+{"job": "bad_key_1", "status": 401, "ts": 1793362875.28, "event": "fatal"}
+{"job": "bad_key_0", "status": 401, "ts": 1793362875.28, "event": "fatal"}
+{"job": "short_timeout_0", "attempt": 1, "ts": 1793362878.29, "event": "retry_timeout"}
+{"job": "short_timeout_1", "attempt": 1, "ts": 1793362878.29, "event": "retry_timeout"}
+{"job": "short_timeout_2", "attempt": 1, "ts": 1793362878.29, "event": "retry_timeout"}
+{"job": "short_timeout_0", "attempt": 2, "ts": 1793362886.94, "event": "retry_timeout"}
+{"job": "short_timeout_1", "attempt": 2, "ts": 1793362886.94, "event": "retry_timeout"}
+{"job": "short_timeout_2", "attempt": 2, "ts": 1793362886.94, "event": "retry_timeout"}
+{"job": "short_timeout_0", "latency": 6.23, "attempt": 3, "req_id": "chatcmpl-01a18cc2-0968-7702-ac04-b79d99c347fc", "ts": 1793362895.17, "event": "success"}
+{"job": "short_timeout_2", "latency": 7.75, "attempt": 3, "req_id": "chatcmpl-01a18cc2-0990-7622-bc51-4eeb964352df", "ts": 1793362896.69, "event": "success"}
+{"job": "short_timeout_1", "attempt": 3, "ts": 1793362901.94, "event": "retry_timeout"}
+{"job": "short_timeout_1", "latency": 9.26, "attempt": 4, "req_id": "chatcmpl-01a18cc2-4407-7fc7-b7c5-c6429cd11e89", "ts": 1793362913.2, "event": "success"}
+{"job": "recovery_0", "latency": 10.71, "attempt": 1, "req_id": "chatcmpl-01a18cc2-683b-745a-941f-2bee2b63a70a", "ts": 1793362923.91, "event": "success"}
+{"job": "recovery_4", "latency": 11.82, "attempt": 1, "req_id": "chatcmpl-01a18cc2-6a22-7458-b519-3240c8d76236", "ts": 1793362925.02, "event": "success"}
+{"job": "recovery_2", "latency": 13.42, "attempt": 1, "req_id": "chatcmpl-01a18cc2-6a08-7b1d-9f50-c8992e56b9ca", "ts": 1793362926.62, "event": "success"}
+{"job": "recovery_1", "latency": 13.46, "attempt": 1, "req_id": "chatcmpl-01a18cc2-6a39-7331-8848-78a67e340a6c", "ts": 1793362926.66, "event": "success"}
+{"job": "recovery_3", "latency": 22.51, "attempt": 1, "req_id": "chatcmpl-01a18cc2-6a4b-7feb-ae22-311be785e721", "ts": 1793362935.71, "event": "success"}
