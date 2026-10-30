@@ -1,0 +1,802 @@
+[
+  {
+    "tag": "base",
+    "status": 200,
+    "lat": 7.38,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-1c96-7d18-8bbf-b054cebfd652",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "base",
+    "status": 200,
+    "lat": 7.39,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-1ca5-7e47-8afb-f30e92707938",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "base",
+    "status": 200,
+    "lat": 7.39,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-1ca2-744a-853f-24f6e617114a",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "unknown_model",
+    "status": 400,
+    "lat": 0.18,
+    "finish": null,
+    "content": "",
+    "id": null,
+    "err": "Unknown model: 'no/such-model'. Valid models: ['ambient/large', 'ambient/small', 'z-ai/glm",
+    "tokens": null
+  },
+  {
+    "tag": "missing_model",
+    "status": 400,
+    "lat": 0.19,
+    "finish": null,
+    "content": "",
+    "id": null,
+    "err": "you must provide a model parameter. See GET /v1/models for available models.",
+    "tokens": null
+  },
+  {
+    "tag": "empty_messages",
+    "status": 400,
+    "lat": 0.19,
+    "finish": null,
+    "content": "",
+    "id": null,
+    "err": "Upstream request failed",
+    "tokens": null
+  },
+  {
+    "tag": "interrupt",
+    "status": "TIMEOUT",
+    "lat": 1.5,
+    "content": "",
+    "id": null,
+    "err": "",
+    "finish": null,
+    "tokens": null
+  },
+  {
+    "tag": "interrupt",
+    "status": "TIMEOUT",
+    "lat": 1.5,
+    "content": "",
+    "id": null,
+    "err": "",
+    "finish": null,
+    "tokens": null
+  },
+  {
+    "tag": "interrupt",
+    "status": "TIMEOUT",
+    "lat": 1.5,
+    "content": "",
+    "id": null,
+    "err": "",
+    "finish": null,
+    "tokens": null
+  },
+  {
+    "tag": "after_interrupt",
+    "status": 200,
+    "lat": 1.14,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-40d5-723d-a8f5-ebda9cbaeed7",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "after_interrupt",
+    "status": 200,
+    "lat": 1.29,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-40cc-7a58-99ff-48799f2ab342",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "after_interrupt",
+    "status": 200,
+    "lat": 5.46,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-420b-7547-8a06-4fcb0614d21d",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "dup",
+    "status": 200,
+    "lat": 2.23,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-580e-7f17-a31e-f330de17e2bd",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "dup",
+    "status": 200,
+    "lat": 2.85,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-54c0-7c6c-8dfa-a6aef62088c4",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "dup",
+    "status": 200,
+    "lat": 2.86,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-54b7-763e-beaf-14de4cbfe3fe",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "dup",
+    "status": 200,
+    "lat": 3.05,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-562e-7e13-9ba9-67c1ffd911ca",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "dup",
+    "status": 200,
+    "lat": 3.9,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-54dd-79d7-a087-5606fa75a687",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "dup",
+    "status": 200,
+    "lat": 4.31,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-5af1-7f55-8b9f-cb57cd8e4e1f",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 0.92,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6598-7911-a4fe-0a71f05c78bf",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 0.92,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-659a-700d-a8c2-bde7cb2ff6a7",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 0.92,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6596-77b9-9b7c-cce6b948ae46",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 0.92,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-658a-7928-8cfc-c380dd599672",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 0.93,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6597-7899-a70d-f519c3e1e7d8",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.37,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6591-7655-82d4-20028453434a",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.94,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67c1-731c-8993-3cc598d9c111",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.93,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67c2-7a2f-80c5-11d692f7eeec",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.95,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67a9-79f5-86d6-e10c55c139cd",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.95,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67a9-7ac0-8e62-62e0a03ccd74",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.95,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67a8-7bc8-aad4-65396950bbe3",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.94,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67be-749b-90fd-b97086696c47",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.95,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67a7-73e1-9e9b-8c9229667e7f",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.95,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67aa-7843-9f99-c006cbe895fb",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.95,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67b1-7152-8089-5b10d9e4943f",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.93,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67bc-79e6-a9ee-f85875bcfc4e",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.95,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67c4-7e05-9ac0-7879823add99",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.95,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67c1-7bb3-9be7-1bc704398058",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.94,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67c3-7589-bace-49b9d50238fe",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.94,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67c3-7e35-b280-10f3a00e259a",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.95,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67bf-7293-abb3-f031e660dcf8",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.98,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67d1-75ff-a0e4-b4745b398bc7",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 1.99,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67d2-7b2f-8f8f-a05da91a56dc",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 2.65,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6707-7215-b23d-38b767c93d28",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 2.91,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6739-74b8-be75-fc1a2bddd349",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 2.89,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6762-7eab-947f-e3e9d41b6468",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 2.9,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-673e-718f-adbc-43ca3313015a",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 2.9,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6732-7505-9c25-dda2ddcaad8d",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 2.9,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6765-771f-8b4d-9d08ba8c2c36",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 2.89,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6762-7a85-846a-02fa78c692e5",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 2.9,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6767-774f-a2d6-36477e3d2f8f",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.2,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67ba-71df-be1f-0cfa6e89c321",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.2,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67bd-7d2d-9ae0-843be728a72a",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.19,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67bf-73f4-bbe5-f64f59906db6",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.19,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67b4-7328-b987-79e72f5e581e",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.21,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67c1-7cef-a7b3-0d6ede86f1cd",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.2,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67c2-75e4-ad93-ad5be7f84f96",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.2,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67c0-766e-a912-c59bca545ead",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.21,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67b6-751f-a27e-0ff6a859acfc",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.21,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67bc-7395-8e52-e30d78a7de91",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.2,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67c7-7844-a76e-21dac6530aa1",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.88,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6791-73b5-ac1c-458f7ac76873",
+    "err": "",
+    "tokens": 59
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.88,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-68d2-74d2-8faf-f1d42472f154",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.89,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6796-79e7-8fc9-d8f632524378",
+    "err": "",
+    "tokens": 59
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.89,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6733-724f-a83e-a277a61d757d",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.88,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-68e1-7467-a839-78a840d729f3",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.89,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-6794-76e5-852c-11cecdf2848e",
+    "err": "",
+    "tokens": 59
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.88,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-68ea-7bd5-b68c-d3027c975d9c",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.89,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-68ed-79b5-b0c8-7d44c10cc934",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.9,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-68f1-71c3-8761-b34e770a0ae2",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.9,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-686c-7228-8ca8-4d7c239b56f1",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.88,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-68e5-7ce0-87e9-87c0d6c66c7c",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.89,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-68e8-78e7-981b-c4bc67b5f5d9",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.9,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-68cf-7134-8c02-8c5b8c8873cf",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.9,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-68c0-7e93-8e4a-ef715a1e8a9e",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 3.91,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-68ef-7e44-927b-eb7257353c86",
+    "err": "",
+    "tokens": 63
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 4.63,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67c8-744d-8aec-f05d481bbfc1",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 4.65,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67c5-7637-8ffe-7c5c1adf9edf",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 4.64,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67ca-7dd6-b204-0b626bcbdfb8",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "burst",
+    "status": 200,
+    "lat": 4.65,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-67b1-7b73-86de-6123c4dfd8a2",
+    "err": "",
+    "tokens": 61
+  },
+  {
+    "tag": "netdown",
+    "status": "NETERR",
+    "lat": 0.0,
+    "content": "",
+    "id": null,
+    "err": "Cannot connect to host api.ambient.xyz.invalid:443 ssl:defau",
+    "finish": null,
+    "tokens": null
+  },
+  {
+    "tag": "after_net",
+    "status": 200,
+    "lat": 2.72,
+    "finish": "stop",
+    "content": "144",
+    "id": "chatcmpl-01a18cd4-77e6-7888-b7a4-5cad5f020dca",
+    "err": "",
+    "tokens": 63
+  }
+]
