@@ -1,0 +1,5 @@
+{"id": "chatcmpl-01a18ce6-f6e0-71d5-a079-9c4459cb7430", "status": 200, "attempt": 1, "lat": 4.24, "finish": "stop", "empty": false}
+{"id": "chatcmpl-01a18ce7-00d7-705a-b0ca-b0cd50e5da60", "status": 200, "attempt": 1, "lat": 6.56, "finish": "stop", "empty": false}
+{"id": "chatcmpl-01a18ce7-1a53-7fe1-8c35-4eb1d668fb36", "status": 200, "attempt": 1, "lat": 5.35, "finish": "stop", "empty": false}
+{"id": "chatcmpl-01a18ce7-323b-752b-8c9d-2019feb2fbc0", "status": 200, "attempt": 1, "lat": 5.02, "finish": "stop", "empty": false}
+{"id": "chatcmpl-01a18ce7-4470-732a-8a90-e170ca894356", "status": 200, "attempt": 1, "lat": 6.34, "finish": "stop", "empty": false}
